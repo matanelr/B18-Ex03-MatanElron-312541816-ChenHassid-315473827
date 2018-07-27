@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6E07C296-A72E-4948-9892-4FE7235ACEF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex03.GarageLogic/Wheel.cs">
+    <Files>
+      <File FileName="Ex03.ConsoleUI/GarageUI.cs" Line="443" Column="45" />
+      <File FileName="Ex03.ConsoleUI/GarageFunctionalityManager.cs" Line="147" Column="14" />
+      <File FileName="Ex03.GarageLogic/UnavailableOptionException.cs" Line="11" Column="10" />
+      <File FileName="Ex03.GarageLogic/OutOfRangeException.cs" Line="15" Column="10" />
+      <File FileName="Ex03.GarageLogic/Engine.cs" Line="93" Column="1" />
+      <File FileName="Ex03.GarageLogic/FuelEngine.cs" Line="92" Column="164" />
+      <File FileName="Ex03.GarageLogic/MotorCycle.cs" Line="4" Column="16" />
+      <File FileName="Ex03.GarageLogic/Truck.cs" Line="87" Column="39" />
+      <File FileName="Ex03.GarageLogic/Wheel.cs" Line="61" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ex03.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
